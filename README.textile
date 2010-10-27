@@ -1,0 +1,7 @@
+h1. HNResources.com
+
+This repository contains directory site with resources related to "Hacker News":http://news.ycombinator.com community.
+
+If you want to run site locally you need "jekyll":http://github.com/mojombo/jekyll and "compass":http://github.com/chriseppstein/compass/ gems installed.
+
+If you think that some resources need to be added send me pull request, fill issue or leave a comment on site.
