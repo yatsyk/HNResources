@@ -1,0 +1,7 @@
+<div class='panel'>
+<h3><a class="h" href="ycombinator/">Y Combinator</a></h3>
+ 
+* "Wikipedia Article about Y Combinator":http://en.wikipedia.org/wiki/Y_Combinator
+
+<div class='right'><a class='more' href='ycombinator/'>more...</a></div>
+</div>

@@ -1,0 +1,9 @@
+<div class='panel'>
+<h3><a class="h" href="lists/">Lists on NH</a></h3>
+
+HN has few special "lists":/lists/#official_lists of threads and users
+
+"Ask HN lists":/lists/#ask
+
+<div class='right'><a class='more' href='lists/'>more...</a></div>
+</div>

@@ -1,0 +1,19 @@
+---
+layout: default
+title: Y Combinator 
+page_id: ycombinator
+---
+
+h2. {{ page.title }}
+
+* "Wikipedia Article about Y Combinator":http://en.wikipedia.org/wiki/Y_Combinator
+
+h3. Companies
+
+* "Seed Accelerators & their companies":https://spreadsheets.google.com/ccc?key=t_toYuVyy6fci0MAiIaZ30A#gid=20 | "YCList":http://yclist.com/
+
+h3. Jobs in Y Combinator's Companies
+* "Jobs in startups funded by Y Combinator":http://news.ycombinator.com/job
+* "Jobs by Y Combinator companies":http://www.linkup.com/lists/Y_Combinator_Startups created by "LinkUp":http://linkup.com job search engine
+
+{% include disqus_comments.html %}

@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/stylesheets/screen.css" type="text/css" media="screen, projection"> 
+    <link rel="stylesheet" href="/stylesheets/print.css" type="text/css" media="print"> 
+    <!--[if lt IE 8]><link rel="stylesheet" href="../../ie.css" type="text/css" media="screen, projection"><![endif]--> 
+    {% include analytics.html %}
+  </head>
+  <body class='bp two-col'>
+    <div id="container">
+      <div id="header">
+          <h1><img src="/images/r.png" alt="R" class="title_icon" /><a class='h' href="/">HNResources</a></h1>
+      </div>
+      <div id="content">
+        {{ content }}
+      </div>
+      {% include sidebar.html %}
+      <div id='footer'>
+          <div>
+              <a href="/">HNResources</a> is not affiliated with <a href="http://ycombinator.com/">Y Combinator</a>
+          </div>
+          <div>
+              Hosted on <a href="http://www.github.com/">GitHub</a>
+          </div>
+      </div>
+  </div>
+  </body>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+  <script type="text/javascript" src="/script/app.js"></script>
+  {% include disqus_script.html %}
+</html>

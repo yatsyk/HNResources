@@ -1,0 +1,9 @@
+<div class='panel'>
+<h3><a class="h" href="books/">Books</a></h3>
+ 
+* "Startup Library":http://ycombinator.com/lib.html
+* "hn-books":http://news.ycombinator.com/item?id=1803290
+* "Secret Hacker Bookshelf":http://news.ycombinator.com/item?id=1755422
+
+<div class='right'><a class='more' href='books/'>more...</a></div>
+</div>

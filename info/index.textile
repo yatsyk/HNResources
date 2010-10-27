@@ -1,0 +1,15 @@
+---
+layout: default
+title: Information and FAQs about HN
+page_id: info
+---
+
+h2. {{ page.title }}
+
+* "Wikipedia Article about HN":http://en.wikipedia.org/wiki/Hacker_News
+* "Hacker News FAQ":http://ycombinator.com/newsfaq.html
+* "The Unofficial Hacker News FAQ":http://www.jacquesmattheij.com/The+Unofficial+HN+FAQ | "HN Discussion":http://news.ycombinator.com/item?id=1755533
+* "Hacker News News":http://ycombinator.com/newsnews.html
+* "Hacker News Guidelines ":http://ycombinator.com/newsguidelines.html
+
+{% include disqus_comments.html %}

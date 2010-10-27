@@ -1,0 +1,5 @@
+<div class='panel'>
+<h3><a class='h' href='spreadsheets/'>Spreadsheets</a></h3>
+ 
+<div class='right'><a class='more' href='spreadsheets/'>more...</a></div>
+</div>

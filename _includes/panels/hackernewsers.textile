@@ -1,0 +1,6 @@
+<div class='panel'>
+<h3><a class="h" href="hackernewsers/">HN Users</a></h3>
+ 
+
+<div class='right'><a class='more' href='hackernewsers/'>more...</a></div>
+</div>

@@ -1,0 +1,26 @@
+---
+layout: default
+title: Hacker News Spreadsheets
+page_id: spreadsheets
+---
+
+h2. {{ page.title }}
+
+* "Seed Accelerators & their companies":https://spreadsheets.google.com/ccc?key=t_toYuVyy6fci0MAiIaZ30A#gid=20 | "YCList":http://yclist.com/
+* "HN Yellow Pages":https://spreadsheets2.google.com/ccc?key=tJ4MdE7OPPucXtJAAKdaDrw&hl=en#gid=0 | "HN Discussion":http://news.ycombinator.com/item?id=1517198 | "Form to submit":http://spreadsheets.google.com/viewform?hl=en&formkey=dEo0TWRFN09QUHVjWHRKQUFLZGFEcnc6MQ#gid=0
+* "List of Hacker News Related Meetups":https://spreadsheets4.google.com/ccc?key=t0Yf_w1vphN-ZT0LCU2uPjQ&hl=en#gid=0
+* "New Startup Ideas":https://docs.google.com/leaf?id=0Ag-R_ZlGO21NdE9HSWRkbjNyUGRxS2JIV3NxYVdiaXc&sort=name&layout=list&pid=0B97Zl0IkSUKrMzBhOTViMzEtMjAzMS00MWQ4LThiMTctMDljMzY4YjI4MzUy&cindex=9 | "HN Discussion":http://news.ycombinator.com/item?id=1190974 | "Alternative Interface":http://andrey.yatsyk.com/startup_ideas/
+* "HN proxy desk neighbour list":https://docs.google.com/leaf?id=0Ao3RpZe396VZdEZnZXBVdXVCSFNnZmV1S1BLY2N4VEE&sort=name&layout=list&pid=0B97Zl0IkSUKrMzBhOTViMzEtMjAzMS00MWQ4LThiMTctMDljMzY4YjI4MzUy&cindex=7&authkey=CIqAl7wO
+* "Facebook alternatives":https://spreadsheets0.google.com/ccc?key=tbW565lzFKj4SoZnTzGVRNA#gid=1 | "HN Discussion":http://news.ycombinator.com/item?id=1330989
+* "HN help wanted board":https://docs.google.com/leaf?id=0Ao3RpZe396VZdDR2VUVFcjdETm45SElNZnFjOXJxS2c&sort=name&layout=list&pid=0B97Zl0IkSUKrMzBhOTViMzEtMjAzMS00MWQ4LThiMTctMDljMzY4YjI4MzUy&cindex=6&authkey=CNz61JoJ
+* "Cofounder Wish List":https://docs.google.com/leaf?id=0AmMd8XeNcZnudGgtLWhuQWZaLXg2UkxFREtMSkwwNGc&sort=name&layout=list&pid=0B97Zl0IkSUKrMzBhOTViMzEtMjAzMS00MWQ4LThiMTctMDljMzY4YjI4MzUy&cindex=3 | "HN Discussion":http://news.ycombinator.com/item?id=1052950
+* "Ask HN: Who's Hiring?":https://docs.google.com/leaf?id=0At7Zl0IkSUKrdGl4RE1YS1B0Yk5hcGZxWXgxNkhzc3c&sort=name&layout=list&pid=0B97Zl0IkSUKrMzBhOTViMzEtMjAzMS00MWQ4LThiMTctMDljMzY4YjI4MzUy&cindex=1
+* "Ask HN: SaaS Apps For Startup Weekend App":https://docs.google.com/leaf?id=0AkDui8pz66cadDIwVkVheHVWdGNrS1lqYl9FQnFmaUE&sort=name&layout=list&pid=0B97Zl0IkSUKrMzBhOTViMzEtMjAzMS00MWQ4LThiMTctMDljMzY4YjI4MzUy
+* "Ask HN: Do you need funding?":https://spreadsheets3.google.com/ccc?key=tkgCcmTNVq-ctuLXcz9SVWg&hl=en#gid=0
+* "Are you looking to fund startups?":https://spreadsheets1.google.com/ccc?key=tNSBeVi-DEbMXw-9cWm3GcQ&hl=en#gid=0
+* "HN Domain Exchange":https://spreadsheets1.google.com/ccc?key=t_cImHWpeXMSb37GBLWXXPw&hl=en#gid=9 | "HN Discussion":http://news.ycombinator.com/item?id=1794289
+
+h3. Lists
+* "https://docs.google.com/leaf?id=0B97Zl0IkSUKrMzBhOTViMzEtMjAzMS00MWQ4LThiMTctMDljMzY4YjI4MzUy&hl=en&pli=1":https://docs.google.com/leaf?id=0B97Zl0IkSUKrMzBhOTViMzEtMjAzMS00MWQ4LThiMTctMDljMzY4YjI4MzUy&hl=en&pli=1
+
+{% include disqus_comments.html %}

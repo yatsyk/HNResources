@@ -1,0 +1,14 @@
+---
+layout: default
+title: Books
+page_id: books
+---
+
+h2. {{ page.title }}
+
+* "Startup Library":http://ycombinator.com/lib.html
+* "http://hn-books.com/":http://hn-books.com/ | "HN Discussion":http://news.ycombinator.com/item?id=1803290
+* "Secret Hacker Bookshelf":http://www.whattofix.com/blog/archives/2010/10/top-dozen-hacke.php | "HN Discussion":http://news.ycombinator.com/item?id=1755422
+
+
+{% include disqus_comments.html %}

@@ -1,0 +1,9 @@
+<div class='panel'>
+<h3><a class="h" href="info/">Information and FAQs about HN</a></h3>
+
+* "Wikipedia Article about HN":http://en.wikipedia.org/wiki/Hacker_News
+* "Hacker News FAQ":http://ycombinator.com/newsfaq.html
+* "The Unofficial Hacker News FAQ":http://www.jacquesmattheij.com/The+Unofficial+HN+FAQ 
+ 
+<div class='right'><a class='more' href='info/'>more...</a></div>
+</div>

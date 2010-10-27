@@ -1,0 +1,65 @@
+---
+layout: default
+title: Alternative Interfaces and Applications
+page_id: apps
+---
+h2. {{ page.title }} 
+
+h3. Mobile Clients
+
+<a name="android"></a>
+
+h4. Android
+
+* *HNDroid* "Project page":http://gluegadget.com/hndroid/ | "HN Discussion":http://news.ycombinator.com/item?id=1708783 | "source":http://github.com/amir/HNdroid
+* *HackerTouch* "source":http://github.com/jedediah/HackerTouch
+* *Hacker News Reader* "Project page":http://ifdefined.com/blog/post/A-Hacker-News-app-for-Android.aspx
+
+<a name="iphone"></a>
+
+h4. iPhone
+
+* *Hacker News* "Project Page":http://michaelgrinich.com/hackernews/index.html | "iPhone App Store":http://itunes.apple.com/us/app/hacker-news/id339408916?mt=8 ($2.99)
+
+<a name="mhtml"></a>
+
+h4. Mobile Html
+* "http://ihackernews.com/":http://ihackernews.com/
+* "http://www.icombinator.net":http://www.icombinator.net
+
+<a name="api"></a>
+
+h3. API
+
+* "http://api.ihackernews.com/":http://api.ihackernews.com/ | "HN Discussion":http://news.ycombinator.com/item?id=1694049
+* Python: "source":http://github.com/edparcell/HNScraper
+* Ruby: "source":http://github.com/seven1m/hackernews
+
+<a name="interfaces"></a>
+
+h3. Alternative Interfaces, Visualizations etc
+* "Hacker Monthly":http://hackermonthly.com/ - The Print Magazine of Hacker News
+* "http://hckrnews.com":http://hckrnews.com
+* "http://hackerslide.com/":http://hackerslide.com/ | "HN Discussion":http://news.ycombinator.com/item?id=1794614 | "source":http://github.com/peterc/hackerslide
+* "http://hackerbra.in/":http://hackerbra.in/
+* "http://hnsort.com/":http://hnsort.com/
+* "http://www.hntrends.com/":http://www.hntrends.com/
+* "http://www.hackrtrackr.com/":http://www.hackrtrackr.com/
+* "Hacker News Daily":http://www.daemonology.net/hn-daily/ | "HN Discussion":http://news.ycombinator.com/item?id=1514037 - Daily top stories from Hacker News
+* "Hacker Newspaper":http://hacker-newspaper.gilesb.com/
+* "Hacker News, automagically organized":http://metaoptimize.com/projects/autotag/hackernews/ | "HN Discussion":http://news.ycombinator.com/item?id=1804261
+* "HackerNewsLetter":http://www.hackernewsletter.com/ | "HN Discussion":http://news.ycombinator.com/item?id=1494362
+
+<a name="browser_extensions"></a>
+
+h3. Browser Extensions
+* "http://blog.dtrejo.com/hotkeys-for-hacker-news":http://blog.dtrejo.com/hotkeys-for-hacker-news | "source":http://github.com/DTrejo/HN-Hotkeys
+* *HN HideIt* "https://chrome.google.com/extensions/detail/dibillbafbngeiloehmhhibhjhipeoig":https://chrome.google.com/extensions/detail/dibillbafbngeiloehmhhibhjhipeoig
+* *Better HN* "https://chrome.google.com/extensions/detail/hhedbplnihmkekhgmaoikgfbkjjaocnl":https://chrome.google.com/extensions/detail/hhedbplnihmkekhgmaoikgfbkjjaocnl
+
+h3. Twitter Bots
+* <a href='http://twitter.com/newsyc20'>newsyc20</a>
+* "hackernewsbot":http://twitter.com/hackernewsbot
+* "newsycombinator":http://twitter.com/newsycombinator
+
+{% include disqus_comments.html %}

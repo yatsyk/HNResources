@@ -1,0 +1,97 @@
+@import "blueprint/reset";
+@import "partials/base";
+@import "blueprint";
+@import "blueprint/scaffolding";
+@import "blueprint/colors";
+@import "compass/layout.scss";
+@import "compass/utilities/general/min";
+@import "compass/utilities/links/hover-link";
+@import "compass/utilities/links/link-colors";
+
+$fore-color: #ff6600;   
+$sidebar-columns: floor($blueprint-grid-columns / 4);
+$left-columns: floor(($blueprint-grid-columns - $sidebar-columns) / 2);
+$right-columns: $blueprint-grid-columns - $sidebar-columns - $left-columns;
+
+body {
+    @include blueprint-typography(true);
+    @include blueprint-utilities;
+    @include blueprint-debug;
+    @include blueprint-interaction;
+    @include blueprint;
+    @include blueprint-scaffolding;
+    form.bp {
+        @include blueprint-form; 
+    }
+    a.h {
+        @include hover-link;
+        @include link-colors($fore-color);
+    }
+    .right{
+        text-align: right;
+    }
+    a.more {
+        @include hover-link;
+    }
+    h1, h2, h3, h4, h5 {
+        color: $fore-color;
+        font-family: Arial, Tahoma, sans-serif;
+        font-weight: 800;
+        margin-bottom: 0.5em;
+    }
+    h1 {
+        margin-top: 2px;
+        font-size: 20px;
+    }
+    p {
+        margin: 0px 0px 0.5em;
+    }
+    #container {
+        @include container; 
+    }
+    #footer {
+        border-top: 1px solid $fore-color;
+        @include column($blueprint-grid-columns); 
+        text-align: right; 
+        div {
+        }
+    }
+    #header {
+        height: 24px;
+        border-bottom: 1px solid $fore-color;
+        border-top: 8px solid $fore-color;
+        margin-bottom: 10px;
+    }
+    #sidebar {
+        @include column($sidebar-columns, true); 
+        input[type='text'] {
+            width: 200px;
+        }
+    }
+    #content {
+        @include min-height(300px);
+        $content-columns: $left-columns + $right-columns;
+        @include column($content-columns); 
+        .panel {
+            margin-top: 5px;
+            border-top: 1px solid $fore-color;
+        }
+        .left-col {
+            @include column($left-columns); 
+        }
+        .right-col {
+            @include column($right-columns, true); 
+        }
+    } 
+    .site_icon {
+        width: 11px;
+        height: 11px;
+        margin-right: 2px;
+        margin-bottom: -2px;
+    }
+    .title_icon {
+        width: 16px;
+        height: 16px;
+        margin-right: 2px;
+    }
+}

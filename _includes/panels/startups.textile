@@ -1,0 +1,6 @@
+<div class='panel'>
+<h3><a class="h" href="startups/">Startups</a></h3>
+ 
+
+<div class='right'><a class='more' href='startups/'>more...</a></div>
+</div>

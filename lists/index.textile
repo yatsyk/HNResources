@@ -1,0 +1,37 @@
+---
+layout: default
+title: Lists on HN
+page_id: lists
+---
+
+h2. {{ page.title }}
+
+<a name="official_lists"></a>
+
+h3. Lists on HN
+* "New Submissions":http://news.ycombinator.com/newest
+* "New Comments":http://news.ycombinator.com/newcomments
+* "Users with highest carma":http://news.ycombinator.com/leaders
+* "Last Questions Asked":http://news.ycombinator.com/ask
+* "Highest voted recent links":http://news.ycombinator.com/best
+* "Most active current discussions":http://news.ycombinator.com/active
+* "Highest voted recent comments":http://news.ycombinator.com/bestcomments
+* "Submissions from new accounts":http://news.ycombinator.com/noobstories
+* "Comments from new accounts":http://news.ycombinator.com/noobcomments
+* "Jobs in startups funded by Y Combinator":http://news.ycombinator.com/jobs
+
+<a name="ask"></a>
+
+h3. Ask HN
+* "Ask HN Archive":http://remembersaurus.com/askhn.html
+* "Ask YC Archive":http://www.gabrielweinberg.com/startupswiki/Ask_YC_Archive
+* "Ask YC Questions Feed":http://ask.searchyc.com/
+
+h3. Other 
+* "Top Lists by seachyc.com":http://top.searchyc.com/
+
+
+{% include disqus_comments.html %}
+
+
+

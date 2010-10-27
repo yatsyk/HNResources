@@ -1,0 +1,14 @@
+---
+layout: default
+title: Startups
+page_id: startups
+---
+
+h2. {{ page.title }}
+
+h3. Startup Ideas
+* "Startup Ideas We'd Like to Fund":http://ycombinator.com/ideas.html by {% include people/pg %}
+* "Organic Statup Ideas": by {% include people/pg %}
+* "New Startup Ideas Spreadsheet":https://docs.google.com/leaf?id=0Ag-R_ZlGO21NdE9HSWRkbjNyUGRxS2JIV3NxYVdiaXc&sort=name&layout=list&pid=0B97Zl0IkSUKrMzBhOTViMzEtMjAzMS00MWQ4LThiMTctMDljMzY4YjI4MzUy&cindex=9 | "HN Discussion":http://news.ycombinator.com/item?id=1190974 | "Alternative Interface":http://andrey.yatsyk.com/startup_ideas/
+
+{% include disqus_comments.html %}

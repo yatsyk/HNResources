@@ -1,0 +1,30 @@
+---
+layout: default
+title: Hacker News Resources
+page_id: index
+---
+
+<div class='left-col'>
+
+{% include panels/info.textile %}
+
+{% include panels/interfaces_applications.textile %}
+
+{% include panels/lists.textile %}
+
+{% include panels/hackernewsers.textile %}
+
+
+</div>
+
+<div class='right-col'>
+
+{% include panels/ycombinator.textile %}
+
+{% include panels/books.textile %}
+
+{% include panels/spreadsheets.textile %}
+
+{% include panels/startups.textile %}
+
+</div>
