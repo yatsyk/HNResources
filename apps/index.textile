@@ -49,13 +49,15 @@ h3. Alternative Interfaces, Visualizations etc
 * "Hacker Newspaper":http://hacker-newspaper.gilesb.com/
 * "Hacker News, automagically organized":http://metaoptimize.com/projects/autotag/hackernews/ | "HN Discussion":http://news.ycombinator.com/item?id=1804261
 * "HackerNewsLetter":http://www.hackernewsletter.com/ | "HN Discussion":http://news.ycombinator.com/item?id=1494362
-
+* "Hacker Follow":http://hackerfollow.com | "HN Discussion":http://news.ycombinator.com/item?id=1763994 
+* "Hacker News Resourcey":http://resourcey.com/site_details/2/news.ycombinator.com/
 <a name="browser_extensions"></a>
 
 h3. Browser Extensions
 * "http://blog.dtrejo.com/hotkeys-for-hacker-news":http://blog.dtrejo.com/hotkeys-for-hacker-news | "source":http://github.com/DTrejo/HN-Hotkeys
 * *HN HideIt* "https://chrome.google.com/extensions/detail/dibillbafbngeiloehmhhibhjhipeoig":https://chrome.google.com/extensions/detail/dibillbafbngeiloehmhhibhjhipeoig
 * *Better HN* "https://chrome.google.com/extensions/detail/hhedbplnihmkekhgmaoikgfbkjjaocnl":https://chrome.google.com/extensions/detail/hhedbplnihmkekhgmaoikgfbkjjaocnl
+* "hckrnews":http://hckrnews.com "browser extensions":http://hckrnews.com/about.html
 
 h3. Twitter Bots
 * <a href='http://twitter.com/newsyc20'>newsyc20</a>
