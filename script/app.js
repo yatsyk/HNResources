@@ -21,7 +21,7 @@
                 }
             }
         };
-        $('a').each(function(i, el) {
+        $('a').not('#no-icon').each(function(i, el) {
             var href = $(el).attr('href');
             var host = getHostNoWWW(href);
             var icon = icons[host];
