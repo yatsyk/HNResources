@@ -34,6 +34,7 @@ h3. API
 * "http://api.ihackernews.com/":http://api.ihackernews.com/ | "HN Discussion":http://news.ycombinator.com/item?id=1694049
 * Python: "source":http://github.com/edparcell/HNScraper
 * Ruby: "source":http://github.com/seven1m/hackernews
+* Ruby: "ruby-hackernews":http://github.com/bolthar/ruby-hackernews
 
 <a name="interfaces"></a>
 
