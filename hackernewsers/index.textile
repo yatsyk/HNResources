@@ -10,5 +10,7 @@ h2. {{ page.title }}
 * "Twitter Users Most Followed by Readers of Hacker News":http://jeffmiller.github.com/2010/07/28/twitter-users-most-followed-by-readers-of-hacker-news | "HN Discussion":http://news.ycombinator.com/item?id=1846999
 * "Facebook HN Group":http://www.facebook.com/home.php?sk=group_114326995294656 | "HN Discussion":http://news.ycombinator.com/item?id=1765203
 * "LinkedIn HN Group":http://www.linkedin.com/groups?gid=86116 | "HN Discussion":http://news.ycombinator.com/item?id=290008
+* "Smart People":http://nasr.ath.cx/ - Follow any people on HackerNews.
+* "HackerNewsers Setups":http://hnsetups.com/
 
 {% include disqus_comments.html %}
