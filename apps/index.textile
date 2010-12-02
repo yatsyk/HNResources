@@ -61,6 +61,7 @@ h3. Browser Extensions
 * "hckrnews":http://hckrnews.com "browser extensions":http://hckrnews.com/about.html
 * "Collapsible Comments Bookmarklet":http://www.diovo.com/2010/11/collapsible-comments-for-hacker-news/ | "HN Discussion":http://news.ycombinator.com/item?id=1864844
 * "Hacker Friends Chrome Extension":https://chrome.google.com/extensions/detail/mkdhfabjcebcgnpgnhefebefiabhmbfn - Highlight when your friends post to Hacker News.
+* "HN Unread Comments":https://chrome.google.com/extensions/detail/fpndmkcfggkffpablcooicmihgcgalil - This extension will keep track of comments you read on Hacker News and then show you which ones are new (it works on the "threads" page and on a individual item).
 
 h3. Twitter Bots
 * <a href='http://twitter.com/newsyc20'>newsyc20</a>
