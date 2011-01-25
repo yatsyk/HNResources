@@ -11,6 +11,7 @@ h3. Mobile Clients
 
 h4. Android
 
+* "Hacker News":http://etc.jazzychad.net/hnandroid.html | "HN Discussion":http://news.ycombinator.com/item?id=2140053 | 
 * *HNDroid* "Project page":http://gluegadget.com/hndroid/ | "HN Discussion":http://news.ycombinator.com/item?id=1708783 | "source":http://github.com/amir/HNdroid
 * *HackerTouch* "source":http://github.com/jedediah/HackerTouch
 * *Hacker News Reader* "Project page":http://ifdefined.com/blog/post/A-Hacker-News-app-for-Android.aspx
