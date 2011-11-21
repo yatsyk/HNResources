@@ -18,8 +18,9 @@ h4. Android
 
 <a name="iphone"></a>
 
-h4. iPhone
+h4. iPhone/iPad
 
+* *Hacker News Paper* "Hacker News Paper":http://hackernewspaper.com/ - iPad client ($4.99)
 * *Hacker News* "Project Page":http://michaelgrinich.com/hackernews/index.html | "iPhone App Store":http://itunes.apple.com/us/app/hacker-news/id339408916?mt=8 ($2.99)
 
 <a name="mhtml"></a>
