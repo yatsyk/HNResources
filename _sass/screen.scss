@@ -8,7 +8,7 @@
 @import "compass/utilities/links/hover-link";
 @import "compass/utilities/links/link-colors";
 
-$fore-color: #ff6600;   
+$fore-color: #ff6600; 
 $sidebar-columns: floor($blueprint-grid-columns / 4);
 $left-columns: floor(($blueprint-grid-columns - $sidebar-columns) / 2);
 $right-columns: $blueprint-grid-columns - $sidebar-columns - $left-columns;

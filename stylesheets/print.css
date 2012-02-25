@@ -6,11 +6,11 @@ body.bp {
   background: none;
   font-size: 10pt;
 }
-/* line 52, C:/bin/InstantRails/ruby/lib/ruby/gems/1.8/gems/compass-0.10.5/frameworks/blueprint/stylesheets/./blueprint/_print.scss */
+/* line 45, /Users/andrew/.rvm/gems/ruby-1.9.3-p0/gems/compass-0.11.7/frameworks/blueprint/stylesheets/blueprint/_print.scss */
 body.bp .container {
   background: none;
 }
-/* line 54, C:/bin/InstantRails/ruby/lib/ruby/gems/1.8/gems/compass-0.10.5/frameworks/blueprint/stylesheets/./blueprint/_print.scss */
+/* line 47, /Users/andrew/.rvm/gems/ruby-1.9.3-p0/gems/compass-0.11.7/frameworks/blueprint/stylesheets/blueprint/_print.scss */
 body.bp hr {
   background: #cccccc;
   color: #cccccc;
@@ -20,54 +20,54 @@ body.bp hr {
   padding: 0;
   border: none;
 }
-/* line 62, C:/bin/InstantRails/ruby/lib/ruby/gems/1.8/gems/compass-0.10.5/frameworks/blueprint/stylesheets/./blueprint/_print.scss */
+/* line 55, /Users/andrew/.rvm/gems/ruby-1.9.3-p0/gems/compass-0.11.7/frameworks/blueprint/stylesheets/blueprint/_print.scss */
 body.bp hr.space {
   background: white;
   color: white;
 }
-/* line 65, C:/bin/InstantRails/ruby/lib/ruby/gems/1.8/gems/compass-0.10.5/frameworks/blueprint/stylesheets/./blueprint/_print.scss */
+/* line 58, /Users/andrew/.rvm/gems/ruby-1.9.3-p0/gems/compass-0.11.7/frameworks/blueprint/stylesheets/blueprint/_print.scss */
 body.bp h1, body.bp h2, body.bp h3, body.bp h4, body.bp h5, body.bp h6 {
   font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
-/* line 67, C:/bin/InstantRails/ruby/lib/ruby/gems/1.8/gems/compass-0.10.5/frameworks/blueprint/stylesheets/./blueprint/_print.scss */
+/* line 60, /Users/andrew/.rvm/gems/ruby-1.9.3-p0/gems/compass-0.11.7/frameworks/blueprint/stylesheets/blueprint/_print.scss */
 body.bp code {
   font-size: 0.9em;
   font-family: "andale mono", "lucida console", monospace;
 }
-/* line 72, C:/bin/InstantRails/ruby/lib/ruby/gems/1.8/gems/compass-0.10.5/frameworks/blueprint/stylesheets/./blueprint/_print.scss */
+/* line 65, /Users/andrew/.rvm/gems/ruby-1.9.3-p0/gems/compass-0.11.7/frameworks/blueprint/stylesheets/blueprint/_print.scss */
 body.bp a img {
   border: none;
 }
-/* line 75, C:/bin/InstantRails/ruby/lib/ruby/gems/1.8/gems/compass-0.10.5/frameworks/blueprint/stylesheets/./blueprint/_print.scss */
+/* line 68, /Users/andrew/.rvm/gems/ruby-1.9.3-p0/gems/compass-0.11.7/frameworks/blueprint/stylesheets/blueprint/_print.scss */
 body.bp a:link, body.bp a:visited {
   background: transparent;
   font-weight: 700;
   text-decoration: underline;
 }
-/* line 79, C:/bin/InstantRails/ruby/lib/ruby/gems/1.8/gems/compass-0.10.5/frameworks/blueprint/stylesheets/./blueprint/_print.scss */
+/* line 72, /Users/andrew/.rvm/gems/ruby-1.9.3-p0/gems/compass-0.11.7/frameworks/blueprint/stylesheets/blueprint/_print.scss */
 body.bp p img.top {
   margin-top: 0;
 }
-/* line 81, C:/bin/InstantRails/ruby/lib/ruby/gems/1.8/gems/compass-0.10.5/frameworks/blueprint/stylesheets/./blueprint/_print.scss */
+/* line 74, /Users/andrew/.rvm/gems/ruby-1.9.3-p0/gems/compass-0.11.7/frameworks/blueprint/stylesheets/blueprint/_print.scss */
 body.bp blockquote {
   margin: 1.5em;
   padding: 1em;
   font-style: italic;
   font-size: 0.9em;
 }
-/* line 86, C:/bin/InstantRails/ruby/lib/ruby/gems/1.8/gems/compass-0.10.5/frameworks/blueprint/stylesheets/./blueprint/_print.scss */
+/* line 79, /Users/andrew/.rvm/gems/ruby-1.9.3-p0/gems/compass-0.11.7/frameworks/blueprint/stylesheets/blueprint/_print.scss */
 body.bp .small {
   font-size: 0.9em;
 }
-/* line 88, C:/bin/InstantRails/ruby/lib/ruby/gems/1.8/gems/compass-0.10.5/frameworks/blueprint/stylesheets/./blueprint/_print.scss */
+/* line 81, /Users/andrew/.rvm/gems/ruby-1.9.3-p0/gems/compass-0.11.7/frameworks/blueprint/stylesheets/blueprint/_print.scss */
 body.bp .large {
   font-size: 1.1em;
 }
-/* line 90, C:/bin/InstantRails/ruby/lib/ruby/gems/1.8/gems/compass-0.10.5/frameworks/blueprint/stylesheets/./blueprint/_print.scss */
+/* line 83, /Users/andrew/.rvm/gems/ruby-1.9.3-p0/gems/compass-0.11.7/frameworks/blueprint/stylesheets/blueprint/_print.scss */
 body.bp .quiet {
   color: #999999;
 }
-/* line 92, C:/bin/InstantRails/ruby/lib/ruby/gems/1.8/gems/compass-0.10.5/frameworks/blueprint/stylesheets/./blueprint/_print.scss */
+/* line 85, /Users/andrew/.rvm/gems/ruby-1.9.3-p0/gems/compass-0.11.7/frameworks/blueprint/stylesheets/blueprint/_print.scss */
 body.bp .hide {
   display: none;
 }
