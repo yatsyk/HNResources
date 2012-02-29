@@ -1,0 +1,7 @@
+---
+layout: books_list
+title: Books
+page_id: list
+---
+<ul class="source books_list"></ul>
+
