@@ -7,8 +7,10 @@
 @import "compass/utilities/general/min";
 @import "compass/utilities/links/hover-link";
 @import "compass/utilities/links/link-colors";
+@import "compass/utilities/lists/bullets";
+@import "compass/utilities/text/ellipsis";
 
-$fore-color: #ff6600;   
+$fore-color: #ff6600; 
 $sidebar-columns: floor($blueprint-grid-columns / 4);
 $left-columns: floor(($blueprint-grid-columns - $sidebar-columns) / 2);
 $right-columns: $blueprint-grid-columns - $sidebar-columns - $left-columns;
@@ -94,4 +96,46 @@ body {
         height: 16px;
         margin-right: 2px;
     }
+}
+
+// books lists
+body.books_list {
+  ul.books_list {
+    @include no-bullet;
+    li {
+      width: 118px;
+      margin: 4px;
+      height: 180px;
+      float: left;
+      border: 1px solid silver;
+      padding: 2px;
+      div.img {
+        height: 160px;
+        width: 116px;
+        //border: 1px solid green;
+        img {
+          max-width: 100%; 
+          max-height: 100%;
+          text-align: center;
+
+          left: 0;
+          right: 0;
+          top: 0;
+          bottom: 0;
+
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: auto;
+          margin-bottom: auto;
+        }
+      }
+      div.title {
+        height: 18px;
+        margin: 3px;
+        //overflow: hidden;
+        @include ellipsis;
+      }
+    }
+  }
 }

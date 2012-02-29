@@ -1,6 +1,7 @@
 <div class='panel'>
 <h3><a class="h" href="books/">Books</a></h3>
  
+* <span style="color: red; font-weight: bold;">NEW</span> <a href="/books/lists.html">Books Lists</a>
 * "Startup Library":http://ycombinator.com/lib.html
 * "hn-books":http://news.ycombinator.com/item?id=1803290
 * "Secret Hacker Bookshelf":http://news.ycombinator.com/item?id=1755422
