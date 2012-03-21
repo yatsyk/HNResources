@@ -9,6 +9,8 @@ Ruby and python "API":/apps/#api for accessing HN content available.
 
 "Browser extensions":/apps/#browser_extensions for more convinient HN navigation.
 
+<span style="color: red; font-weight: bold;">NEW</span> <a href="http://gh.hnresources.com/">GitHub Watches</a>
+
 <div class='right'><a class='more' href="apps/">more...</a></div>
 </div>
 
